@@ -43,18 +43,18 @@ img#torso{
 	margin-top: 200px;
 }
 img#heart{
-	height: 10px;
-	width: 10px;
+	height: 20px;
+	width: 20px;
 	position: absolute;
-	margin: 690px;
+	margin-left: 685px;
 	margin-top: 150px;
 }
 img#genitalia{
 	height: 10px;
 	width: 10px;
 	position: absolute;
-	margin: 690px;
-	margin-top: 150px;
+	margin: auto;
+	margin-top: 263px;
 }
 @font-face{
 	font-family: Halflings;
